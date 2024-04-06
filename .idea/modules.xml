@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sa-token-client1-demo/sa-token-client1-demo.iml" filepath="$PROJECT_DIR$/sa-token-client1-demo/sa-token-client1-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sa-token-client2-demo/sa-token-client2-demo.iml" filepath="$PROJECT_DIR$/sa-token-client2-demo/sa-token-client2-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sa-token-demo.iml" filepath="$PROJECT_DIR$/.idea/sa-token-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sa-token-demo-springboot/sa-token-demo-springboot.iml" filepath="$PROJECT_DIR$/sa-token-demo-springboot/sa-token-demo-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sa-token-ssoServer-demo/sa-token-ssoServer-demo.iml" filepath="$PROJECT_DIR$/sa-token-ssoServer-demo/sa-token-ssoServer-demo.iml" />
+    </modules>
+  </component>
+</project>
